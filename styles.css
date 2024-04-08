@@ -1,0 +1,220 @@
+.container {
+    width: 1440px;
+    height: 5909px;
+background-color: #ffffff;
+}
+
+#navbar {
+    width: 1440px;
+    height: 133px;
+}
+
+
+.n {
+    color: #000;
+    text-decoration: none;
+     margin: 20px;   
+     font-size: 25px;
+}
+#n1 {
+ padding: 5px ;
+ margin-right: 550px;
+ font-size: 40px;
+    
+}
+#pic1 {
+   width: 1440px;
+   height: 900px;
+}
+#line1 {
+    width: 640px;
+    border: 2px;
+    padding-left: 400px;
+
+   
+    
+    
+}
+#circlepic {
+    width: 56px;
+    height: 56px;
+    padding-left: 400px;
+}
+.groupdata {
+    width: 191px;
+    height: 46px;
+    padding-left: 472px;
+
+}
+#para1 {
+    width: 640px;
+    height: 238px;
+    padding-left: 400px;
+}
+#heading1 {
+    width: 288px;
+    height: 51px;
+    padding-left: 400px;
+}
+#para2 {
+    width: 640px;
+    height: 228px;
+    padding-left: 400px;
+}
+#pic2 {
+    width: 854px;
+    height: 570px;
+    padding-left: 293px;
+  
+}
+#para3 {
+    width: 640px;
+    height: 272px;
+    padding-left: 400px;
+
+
+}
+#listline {
+    width: 640px;
+    height: 34px;
+    padding-left: 400px;
+}
+#list {
+    width: 588px;
+    height: 168px;
+    padding-left: 400px;
+}
+#para4 {
+    width: 640px;
+    height: 68px;
+    padding-left: 400px;
+}
+#f {
+    
+    padding-left: 470px;
+}
+#t {
+ margin-left: 100px;
+}
+#links {
+    padding-left: 400px;
+   
+}
+.ic {
+    color: #000000;
+}
+#circleimg2 {
+     width: 70px;
+     height: 70px;
+     padding-left: 400px;
+}
+#circlepara {
+    width: 543px;
+    height: 78px;
+    padding-left: 494px;
+}
+#line5 {
+    width: 1440px;
+    
+}
+#eyes {
+    width: 82px;
+    height: 64px;
+    padding-left: 679px;
+}
+#head1 {
+    padding-left: 532px;
+}
+#firstboxpic {
+    width: 304px;
+    height: 176px;
+    padding-left: 221px;
+}
+#secondboxpic {
+    width: 304px;
+    height: 176px;
+   margin-left: 10px;
+}
+#thirdboxpic {
+    width: 304px;
+    height: 176px;
+    margin-left: 10px;
+}
+#firstboxpara {
+    padding-left: 229px;
+}
+#secondboxpara {
+   
+}
+#thirdboxpara {
+
+}
+#fourboxpic {
+    padding-left: 221px;
+}
+#fiveboxpic {
+    margin-left: 10px;
+}
+#sixboxpic {
+    margin-left: 10px;
+}
+#fourboxpara {
+    padding-left: 242px;
+}
+#fourboxpara {
+
+}
+#sixboxpara {
+
+}
+#signbar {
+    width: 640px;
+    height: 12px;
+    padding-left: 1px;
+}
+#btn {
+    color: #ffffff;
+    background-color: #000000;
+    width: 100px;
+    height: 37px;
+
+}
+#input {
+    margin-left: 150px;
+    width: 250px;
+    height: 30px;
+}
+#bor {
+    border: 1px solid ;
+    width: 640px;
+    height: 313px;
+   margin-left: 400px;
+}
+#footer {
+    width: 1451px;
+    height: 464px;
+    background-color: #000000;
+   
+}
+.ftr {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px;
+   
+    
+}
+.ftrr {
+    text-decoration: none;
+    color: #c0bebe;
+}
+.alast {
+    color: #c0bebe;
+    padding: 10px;
+}
+#footerline {
+    width: 1451px;
+    height: 28px;
+   font-size: 33px;
+  
+}
+
